@@ -13,74 +13,86 @@ namespace BlazorOverview.Pages
     using global::System.Threading.Tasks;
     using global::Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 1 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using System.Net.Http
 
 #nullable disable
     ;
 #nullable restore
-#line 2 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 2 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using Microsoft.AspNetCore.Authorization
 
 #nullable disable
     ;
 #nullable restore
-#line 3 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 3 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization
 
 #nullable disable
     ;
 #nullable restore
-#line 4 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 4 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms
 
 #nullable disable
     ;
 #nullable restore
-#line 5 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 5 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing
 
 #nullable disable
     ;
 #nullable restore
-#line 6 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 6 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web
 
 #nullable disable
     ;
 #nullable restore
-#line 7 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 7 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using Microsoft.JSInterop
 
 #nullable disable
     ;
 #nullable restore
-#line 8 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 8 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using BlazorOverview
 
 #nullable disable
     ;
 #nullable restore
-#line 9 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 9 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using BlazorOverview.Shared
 
 #nullable disable
     ;
 #nullable restore
-#line 10 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 10 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using Blazored
 
 #nullable disable
     ;
 #nullable restore
-#line 11 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 11 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using Blazored.Modal
 
 #nullable disable
     ;
 #nullable restore
-#line 12 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 12 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using Blazored.Modal.Services
+
+#nullable disable
+    ;
+#nullable restore
+#line 3 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\Counter.razor"
+ using BlazorOverview.Models
+
+#nullable disable
+    ;
+#nullable restore
+#line 4 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\Counter.razor"
+ using BlazorOverview.Services
 
 #nullable disable
     ;
@@ -89,7 +101,7 @@ using Blazored.Modal.Services
     [global::Microsoft.AspNetCore.Components.RouteAttribute(
     // language=Route,Component
 #nullable restore
-#line 1 "E:\Blazor專案\Notes Web API\BlazorOverview\Pages\Counter.razor"
+#line 1 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\Counter.razor"
       "/counter"
 
 #line default
@@ -106,19 +118,111 @@ using Blazored.Modal.Services
         }
         #pragma warning restore 1998
 #nullable restore
-#line 9 "E:\Blazor專案\Notes Web API\BlazorOverview\Pages\Counter.razor"
+#line 43 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\Counter.razor"
        
-    private int currentCount = 0;
-
-    private void IncrementCount()
+    private void IncrementCount(NoteCludeCount item)
     {
-        currentCount++;
+        item.Count++; // 直接修改 List 內的物件屬性
+        Update(item); 
+    }
+
+    // 儲存要顯示的集合清單內的所有紀錄
+    public List<NoteCludeCount> CountDatas { get; set; } = new List<NoteCludeCount>();
+
+    // 元件建立的時候，所要執行的初始化工作，這裡使用非同步方式來呼叫
+    protected override async Task OnInitializedAsync()
+    {
+        // 透過 IMyNoteService.RetriveAsync() 方法，來取得所有記事清單
+        CountDatas = await CountersService.RetriveAsync();
+    }
+    // 修改按鈕的點選事件之處理委派方法
+    private async void Update(NoteCludeCount data)
+    {
+        var countData = new Counters
+            {
+                Count = data.Count,
+                NoteId = data.Id
+            };
+        // 透過 IMyNoteService.UpdateAsync() 方法，修改該紀錄
+        await CountersService.UpdateAsync(countData, countData);
     }
 
 #line default
 #line hidden
 #nullable disable
 
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private 
+#nullable restore
+#line 11 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\Counter.razor"
+        IModalService
+
+#line default
+#line hidden
+#nullable disable
+         
+#nullable restore
+#line 11 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\Counter.razor"
+                      Modal
+
+#line default
+#line hidden
+#nullable disable
+         { get; set; }
+         = default!;
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private 
+#nullable restore
+#line 9 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\Counter.razor"
+        ICountersService
+
+#line default
+#line hidden
+#nullable disable
+         
+#nullable restore
+#line 9 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\Counter.razor"
+                         CountersService
+
+#line default
+#line hidden
+#nullable disable
+         { get; set; }
+         = default!;
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private 
+#nullable restore
+#line 8 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\Counter.razor"
+        IMyNoteService
+
+#line default
+#line hidden
+#nullable disable
+         
+#nullable restore
+#line 8 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\Counter.razor"
+                       MyNoteService
+
+#line default
+#line hidden
+#nullable disable
+         { get; set; }
+         = default!;
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private 
+#nullable restore
+#line 6 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\Counter.razor"
+        IJSRuntime
+
+#line default
+#line hidden
+#nullable disable
+         
+#nullable restore
+#line 6 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\Counter.razor"
+                   jsRuntime
+
+#line default
+#line hidden
+#nullable disable
+         { get; set; }
+         = default!;
     }
 }
 #pragma warning restore 1591

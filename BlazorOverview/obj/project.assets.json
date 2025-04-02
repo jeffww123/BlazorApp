@@ -1527,23 +1527,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jeffw\\.nuget\\packages\\": {},
+    "C:\\Users\\nealw\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Blazor專案\\Notes Web API\\BlazorOverview\\BlazorOverview.csproj",
+      "projectUniqueName": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\BlazorOverview.csproj",
       "projectName": "BlazorOverview",
-      "projectPath": "E:\\Blazor專案\\Notes Web API\\BlazorOverview\\BlazorOverview.csproj",
-      "packagesPath": "C:\\Users\\jeffw\\.nuget\\packages\\",
-      "outputPath": "E:\\Blazor專案\\Notes Web API\\BlazorOverview\\obj\\",
+      "projectPath": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\BlazorOverview.csproj",
+      "packagesPath": "C:\\Users\\nealw\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jeffw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nealw\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1552,7 +1552,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

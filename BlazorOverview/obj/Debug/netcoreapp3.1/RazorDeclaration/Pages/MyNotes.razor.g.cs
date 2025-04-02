@@ -13,85 +13,85 @@ namespace BlazorOverview.Pages
     using global::System.Threading.Tasks;
     using global::Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 1 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using System.Net.Http
 
 #nullable disable
     ;
 #nullable restore
-#line 2 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 2 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using Microsoft.AspNetCore.Authorization
 
 #nullable disable
     ;
 #nullable restore
-#line 3 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 3 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization
 
 #nullable disable
     ;
 #nullable restore
-#line 4 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 4 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms
 
 #nullable disable
     ;
 #nullable restore
-#line 5 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 5 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing
 
 #nullable disable
     ;
 #nullable restore
-#line 6 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 6 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web
 
 #nullable disable
     ;
 #nullable restore
-#line 7 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 7 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using Microsoft.JSInterop
 
 #nullable disable
     ;
 #nullable restore
-#line 8 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 8 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using BlazorOverview
 
 #nullable disable
     ;
 #nullable restore
-#line 9 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 9 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using BlazorOverview.Shared
 
 #nullable disable
     ;
 #nullable restore
-#line 10 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 10 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using Blazored
 
 #nullable disable
     ;
 #nullable restore
-#line 11 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 11 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using Blazored.Modal
 
 #nullable disable
     ;
 #nullable restore
-#line 12 "E:\Blazor專案\Notes Web API\BlazorOverview\_Imports.razor"
+#line 12 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\_Imports.razor"
 using Blazored.Modal.Services
 
 #nullable disable
     ;
 #nullable restore
-#line 1 "E:\Blazor專案\Notes Web API\BlazorOverview\Pages\MyNotes.razor"
+#line 1 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\MyNotes.razor"
  using BlazorOverview.Models
 
 #nullable disable
     ;
 #nullable restore
-#line 4 "E:\Blazor專案\Notes Web API\BlazorOverview\Pages\MyNotes.razor"
+#line 4 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\MyNotes.razor"
  using BlazorOverview.Services
 
 #nullable disable
@@ -108,7 +108,7 @@ using Blazored.Modal.Services
         }
         #pragma warning restore 1998
 #nullable restore
-#line 81 "E:\Blazor專案\Notes Web API\BlazorOverview\Pages\MyNotes.razor"
+#line 81 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\MyNotes.razor"
        
     // 儲存要顯示的集合清單內的所有紀錄
     public List<MyNote> Notes { get; set; } = new List<MyNote>();
@@ -225,7 +225,7 @@ using Blazored.Modal.Services
 
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private 
 #nullable restore
-#line 10 "E:\Blazor專案\Notes Web API\BlazorOverview\Pages\MyNotes.razor"
+#line 10 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\MyNotes.razor"
         IModalService
 
 #line default
@@ -233,7 +233,7 @@ using Blazored.Modal.Services
 #nullable disable
          
 #nullable restore
-#line 10 "E:\Blazor專案\Notes Web API\BlazorOverview\Pages\MyNotes.razor"
+#line 10 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\MyNotes.razor"
                       Modal
 
 #line default
@@ -243,7 +243,7 @@ using Blazored.Modal.Services
          = default!;
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private 
 #nullable restore
-#line 8 "E:\Blazor專案\Notes Web API\BlazorOverview\Pages\MyNotes.razor"
+#line 8 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\MyNotes.razor"
         IJSRuntime
 
 #line default
@@ -251,7 +251,7 @@ using Blazored.Modal.Services
 #nullable disable
          
 #nullable restore
-#line 8 "E:\Blazor專案\Notes Web API\BlazorOverview\Pages\MyNotes.razor"
+#line 8 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\MyNotes.razor"
                    jsRuntime
 
 #line default
@@ -261,7 +261,7 @@ using Blazored.Modal.Services
          = default!;
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private 
 #nullable restore
-#line 6 "E:\Blazor專案\Notes Web API\BlazorOverview\Pages\MyNotes.razor"
+#line 6 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\MyNotes.razor"
         IMyNoteService
 
 #line default
@@ -269,7 +269,7 @@ using Blazored.Modal.Services
 #nullable disable
          
 #nullable restore
-#line 6 "E:\Blazor專案\Notes Web API\BlazorOverview\Pages\MyNotes.razor"
+#line 6 "C:\Users\nealw\Documents\BlazorApp\BlazorOverview\Pages\MyNotes.razor"
                        MyNoteService
 
 #line default

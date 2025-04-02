@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = BlazorOverview
-build_property.ProjectDir = E:\Blazor專案\Notes Web API\BlazorOverview\
+build_property.ProjectDir = C:\Users\nealw\Documents\BlazorApp\BlazorOverview\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

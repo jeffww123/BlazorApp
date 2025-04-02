@@ -37,6 +37,7 @@ namespace BlazorOverview
             // 進行 DI 容器註冊
             //services.AddScoped<IMyNoteService, MyNoteService>();
             services.AddScoped<IMyNoteService, MyNoteDbService>();
+            services.AddScoped<ICountersService, CountersDbService>();
 
             // 宣告使用 SQLite 資料庫
             services.AddDbContext<MyNoteDbContext>(options =>

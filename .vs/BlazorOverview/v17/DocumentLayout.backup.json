@@ -1,57 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Blazor\u5C08\u6848\\Notes Web API\\",
+  "WorkspaceRootPath": "C:\\Users\\nealw\\Documents\\BlazorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|e:\\blazor\u5C08\u6848\\notes web api\\blazoroverview\\pages\\mynotes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\pages\\mynotes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\services\\countersdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\services\\countersdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|e:\\blazor\u5C08\u6848\\notes web api\\blazoroverview\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|e:\\blazor\u5C08\u6848\\notes web api\\blazoroverview\\pages\\confirmdelete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\pages\\confirmdelete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|e:\\blazor\u5C08\u6848\\notes web api\\blazoroverview\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|e:\\blazor\u5C08\u6848\\notes web api\\blazoroverview\\models\\mynotedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\models\\mynotedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\models\\mynotedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|e:\\blazor\u5C08\u6848\\notes web api\\blazoroverview\\models\\mynote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\models\\mynote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|e:\\blazor\u5C08\u6848\\notes web api\\blazoroverview\\services\\mynotedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\services\\mynotedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|e:\\blazor\u5C08\u6848\\notes web api\\blazoroverview\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|e:\\blazor\u5C08\u6848\\notes web api\\blazoroverview\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|e:\\blazor\u5C08\u6848\\notes web api\\blazoroverview\\controllers\\mynotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\services\\countersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\services\\countersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\services\\mynotedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\services\\mynotedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\services\\icountersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\services\\icountersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\services\\imynoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\services\\imynoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\services\\mynoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\services\\mynoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\pages\\mynotes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\pages\\mynotes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\models\\counters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\models\\counters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\controllers\\counterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\controllers\\counterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\models\\mynote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\models\\mynote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\controllers\\mynotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\controllers\\mynotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|e:\\blazor\u5C08\u6848\\notes web api\\blazoroverview\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\pages\\confirmdelete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\pages\\confirmdelete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|e:\\blazor\u5C08\u6848\\notes web api\\blazoroverview\\blazoroverview.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\blazoroverview.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\blazoroverview.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|e:\\blazor\u5C08\u6848\\notes web api\\blazoroverview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|c:\\users\\nealw\\documents\\blazorapp\\blazoroverview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B228BE66-92B1-4D93-831E-2A8DA9CE45D6}|BlazorOverview\\BlazorOverview.csproj|solutionrelative:blazoroverview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,175 +94,278 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyNotes.razor",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Pages\\MyNotes.razor",
+              "RelativeDocumentMoniker": "BlazorOverview\\Pages\\MyNotes.razor",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Pages\\MyNotes.razor",
+              "RelativeToolTip": "BlazorOverview\\Pages\\MyNotes.razor",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T12:23:38.498Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorOverview\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorOverview\\Pages\\Counter.razor",
+              "ViewState": "AgIAADcAAAAAAAAAAAASwEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T12:15:06.949Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICountersService.cs",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Services\\ICountersService.cs",
+              "RelativeDocumentMoniker": "BlazorOverview\\Services\\ICountersService.cs",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Services\\ICountersService.cs",
+              "RelativeToolTip": "BlazorOverview\\Services\\ICountersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:52:56.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "CountersService.cs",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Services\\CountersService.cs",
+              "RelativeDocumentMoniker": "BlazorOverview\\Services\\CountersService.cs",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Services\\CountersService.cs",
+              "RelativeToolTip": "BlazorOverview\\Services\\CountersService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:24:36.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyNoteService.cs",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Services\\MyNoteService.cs",
+              "RelativeDocumentMoniker": "BlazorOverview\\Services\\MyNoteService.cs",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Services\\MyNoteService.cs",
+              "RelativeToolTip": "BlazorOverview\\Services\\MyNoteService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:23:38.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CountersController.cs",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Controllers\\CountersController.cs",
+              "RelativeDocumentMoniker": "BlazorOverview\\Controllers\\CountersController.cs",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Controllers\\CountersController.cs",
+              "RelativeToolTip": "BlazorOverview\\Controllers\\CountersController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAwwBoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:09:37.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMyNoteService.cs",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Services\\IMyNoteService.cs",
+              "RelativeDocumentMoniker": "BlazorOverview\\Services\\IMyNoteService.cs",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Services\\IMyNoteService.cs",
+              "RelativeToolTip": "BlazorOverview\\Services\\IMyNoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:01:56.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Counters.cs",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Models\\Counters.cs",
+              "RelativeDocumentMoniker": "BlazorOverview\\Models\\Counters.cs",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Models\\Counters.cs",
+              "RelativeToolTip": "BlazorOverview\\Models\\Counters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:07:56.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountersDbService.cs",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Services\\CountersDbService.cs",
+              "RelativeDocumentMoniker": "BlazorOverview\\Services\\CountersDbService.cs",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Services\\CountersDbService.cs",
+              "RelativeToolTip": "BlazorOverview\\Services\\CountersDbService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:05:38.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Startup.cs",
+              "RelativeDocumentMoniker": "BlazorOverview\\Startup.cs",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Startup.cs",
+              "RelativeToolTip": "BlazorOverview\\Startup.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAEwCcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T07:35:04.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MyNoteDbContext.cs",
-              "DocumentMoniker": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Models\\MyNoteDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Models\\MyNoteDbContext.cs",
               "RelativeDocumentMoniker": "BlazorOverview\\Models\\MyNoteDbContext.cs",
-              "ToolTip": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Models\\MyNoteDbContext.cs",
-              "RelativeToolTip": "BlazorOverview\\Models\\MyNoteDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Models\\MyNoteDbContext.cs*",
+              "RelativeToolTip": "BlazorOverview\\Models\\MyNoteDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T12:32:52.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "MyNoteDbService.cs",
-              "DocumentMoniker": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Services\\MyNoteDbService.cs",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Services\\MyNoteDbService.cs",
               "RelativeDocumentMoniker": "BlazorOverview\\Services\\MyNoteDbService.cs",
-              "ToolTip": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Services\\MyNoteDbService.cs",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Services\\MyNoteDbService.cs",
               "RelativeToolTip": "BlazorOverview\\Services\\MyNoteDbService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCAAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T12:31:48.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MyNotes.razor",
-              "DocumentMoniker": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Pages\\MyNotes.razor",
-              "RelativeDocumentMoniker": "BlazorOverview\\Pages\\MyNotes.razor",
-              "ToolTip": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Pages\\MyNotes.razor",
-              "RelativeToolTip": "BlazorOverview\\Pages\\MyNotes.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T12:23:38.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Index.razor",
-              "DocumentMoniker": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Pages\\Index.razor",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "BlazorOverview\\Pages\\Index.razor",
-              "ToolTip": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Pages\\Index.razor",
               "RelativeToolTip": "BlazorOverview\\Pages\\Index.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T12:23:36.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T12:23:36.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "MyNoteController.cs",
-              "DocumentMoniker": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Controllers\\MyNoteController.cs",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Controllers\\MyNoteController.cs",
               "RelativeDocumentMoniker": "BlazorOverview\\Controllers\\MyNoteController.cs",
-              "ToolTip": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Controllers\\MyNoteController.cs",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Controllers\\MyNoteController.cs",
               "RelativeToolTip": "BlazorOverview\\Controllers\\MyNoteController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T12:23:13.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Data\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Data\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "BlazorOverview\\Data\\WeatherForecast.cs",
-              "ToolTip": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Data\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Data\\WeatherForecast.cs",
               "RelativeToolTip": "BlazorOverview\\Data\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T12:23:06.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T12:23:06.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "BlazorOverview\\Pages\\Counter.razor",
-              "ToolTip": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Pages\\Counter.razor",
-              "RelativeToolTip": "BlazorOverview\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T12:15:06.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "ConfirmDelete.razor",
-              "DocumentMoniker": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Pages\\ConfirmDelete.razor",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Pages\\ConfirmDelete.razor",
               "RelativeDocumentMoniker": "BlazorOverview\\Pages\\ConfirmDelete.razor",
-              "ToolTip": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Pages\\ConfirmDelete.razor",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Pages\\ConfirmDelete.razor",
               "RelativeToolTip": "BlazorOverview\\Pages\\ConfirmDelete.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T12:15:05.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T12:15:05.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "_Host.cshtml",
-              "DocumentMoniker": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Pages\\_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Pages\\_Host.cshtml",
               "RelativeDocumentMoniker": "BlazorOverview\\Pages\\_Host.cshtml",
-              "ToolTip": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Pages\\_Host.cshtml",
               "RelativeToolTip": "BlazorOverview\\Pages\\_Host.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T12:15:04.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T12:15:04.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "App.razor",
-              "DocumentMoniker": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\App.razor",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\App.razor",
               "RelativeDocumentMoniker": "BlazorOverview\\App.razor",
-              "ToolTip": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\App.razor",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\App.razor",
               "RelativeToolTip": "BlazorOverview\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T12:14:17.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T12:14:17.396Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "MyNote.cs",
-              "DocumentMoniker": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Models\\MyNote.cs",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Models\\MyNote.cs",
               "RelativeDocumentMoniker": "BlazorOverview\\Models\\MyNote.cs",
-              "ToolTip": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Models\\MyNote.cs",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Models\\MyNote.cs",
               "RelativeToolTip": "BlazorOverview\\Models\\MyNote.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T12:14:58.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Program.cs",
               "RelativeDocumentMoniker": "BlazorOverview\\Program.cs",
-              "ToolTip": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\Program.cs",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\Program.cs",
               "RelativeToolTip": "BlazorOverview\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T12:12:41.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T12:12:41.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "BlazorOverview",
-              "DocumentMoniker": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\BlazorOverview.csproj",
+              "DocumentMoniker": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\BlazorOverview.csproj",
               "RelativeDocumentMoniker": "BlazorOverview\\BlazorOverview.csproj",
-              "ToolTip": "E:\\Blazor\u5C08\u6848\\Notes Web API\\BlazorOverview\\BlazorOverview.csproj",
+              "ToolTip": "C:\\Users\\nealw\\Documents\\BlazorApp\\BlazorOverview\\BlazorOverview.csproj",
               "RelativeToolTip": "BlazorOverview\\BlazorOverview.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-11T12:12:18.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T12:12:18.128Z"
             }
           ]
         }
